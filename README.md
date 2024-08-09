@@ -31,11 +31,11 @@ We use two primary datasets from Kaggle:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YourUsername/Depression-and-Anxiety-Detection-on-Social-Media.git
+   git clone https://github.com/space-barry/Emotion-dection-and-sentiment-analysis-using-NLP.git
    ```
 2. Navigate to the project directory:
    ```
-   cd Depression-and-Anxiety-Detection-on-Social-Media
+   cd Emotion-detection-and-sentiment-analysis-using-NLP
    ```
 3. Install required packages:
    ```
