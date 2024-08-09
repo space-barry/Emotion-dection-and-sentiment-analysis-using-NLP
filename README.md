@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Tadashi [gmail me](tadashiatwork456@gmail.com)
 
-Medium [Medium.com](https.medium.com/mera-blogpost-link)
+Medium [Medium.com](https://medium.com/@khanmuhammadaizazullah/decoding-digital-distress-how-were-using-ai-to-spot-mental-health-signals-on-social-media-da112ba81856)
